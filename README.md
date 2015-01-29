@@ -1,5 +1,6 @@
-![https://raw.githubusercontent.com/brandonbuttars/woff-fonts/master/images/woff-fonts-logo.png](woff-fonts)
+![woff-fonts](https://raw.githubusercontent.com/brandonbuttars/woff-fonts/master/images/woff-fonts-logo.png)
 
+# woff-fonts
 Common fonts in woff format that are often used on websites and web applications.
 
 ## Purpose
