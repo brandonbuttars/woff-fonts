@@ -9,7 +9,7 @@ When managing different web projects, it's nice to be able to include your webfo
 	bower install woff-fonts
 
 ## Why woff?
-`woff` is currently the most supported format.  When embedding fonts, I've always preferred carrying around as few of font files as possible.  `woff` gives the best browser coverage.
+`woff` is currently the most supported format.  When embedding fonts, I've always preferred carrying around as few of font files as possible.  `woff` gives the best [browser coverage](http://caniuse.com/#feat=woff).
 
 ## Project Fonts
 * Open Sans
