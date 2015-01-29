@@ -3,26 +3,36 @@
     <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
     <title>woff-fonts-logo</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <defs>
+        <ellipse id="path-1" cx="94.5" cy="92" rx="94.5" ry="92"></ellipse>
+    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="woff-fonts-logo" sketch:type="MSArtboardGroup">
             <g id="Group" sketch:type="MSLayerGroup" transform="translate(11.000000, 11.000000)">
-                <ellipse id="Oval-5" fill="#2AABCF" sketch:type="MSShapeGroup" cx="94.5" cy="92" rx="94.5" ry="92"></ellipse>
-                <path d="M85,72.0032213 C85,72.0032213 111.796243,39.7851274 126.087572,30.8356569 C140.378902,21.8861863 153.777023,87.2173212 134.126445,112.275839 C114.475867,137.334356 85,72.0032213 85,72.0032213 Z" id="Path-1" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-                <path d="M73,95.0032213 C73,95.0032213 99.7962428,62.7851274 114.087572,53.8356569 C128.378902,44.8861863 141.777023,110.217321 122.126445,135.275839 C102.475867,160.334356 73,95.0032213 73,95.0032213 Z" id="Path-3" fill="#D0001B" sketch:type="MSShapeGroup"></path>
-                <path d="M92,80.7460222 C92,80.7460222 76.0332957,41.7945461 64.910009,28.8537032 C53.7867224,15.9128602 20.0097072,73.9184552 31.2651087,103.84518 C42.5205103,133.771905 92,80.7460222 92,80.7460222 L92,80.7460222 Z" id="Path-2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-                <path d="M78,85.872271 C78,85.872271 67.1020907,59.1497468 59.5100062,50.2717266 C51.9179216,41.3937064 28.8637684,81.1882425 36.5460266,101.719368 C44.2282848,122.250493 78,85.872271 78,85.872271 L78,85.872271 Z" id="Path-4" fill="#201C55" sketch:type="MSShapeGroup"></path>
-                <ellipse id="Oval-4" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="79.5" cy="130.5" rx="74.5" ry="71.5"></ellipse>
-                <circle id="Oval-5" fill="#000000" sketch:type="MSShapeGroup" cx="88.5" cy="112.5" r="27.5"></circle>
-                <text id="a" sketch:type="MSTextLayer" font-family="Open Sans" font-size="40.8064516" font-weight="260" fill="#FFFFFF">
-                    <tspan x="77" y="124">a</tspan>
-                </text>
-                <text id="a-3" sketch:type="MSTextLayer" font-family="Open Sans" font-size="31.5918367" font-weight="260" fill="#000000">
-                    <tspan x="23" y="114">a</tspan>
-                </text>
-                <text id="T" sketch:type="MSTextLayer" font-family="Open Sans" font-size="42.8307692" font-weight="260" fill="#000000">
-                    <tspan x="17" y="161">T</tspan>
-                </text>
+                <g>
+                    <mask id="mask-2" sketch:name="Mask" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <g mask="url(#mask-2)">
+                        <ellipse id="Oval-5" fill="#2AABCF" sketch:type="MSShapeGroup" cx="94.5" cy="92" rx="94.5" ry="92"></ellipse>
+                        <path d="M85,72.0032213 C85,72.0032213 111.796243,39.7851274 126.087572,30.8356569 C140.378902,21.8861863 153.777023,87.2173212 134.126445,112.275839 C114.475867,137.334356 85,72.0032213 85,72.0032213 Z" id="Path-1" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                        <path d="M73,95.0032213 C73,95.0032213 99.7962428,62.7851274 114.087572,53.8356569 C128.378902,44.8861863 141.777023,110.217321 122.126445,135.275839 C102.475867,160.334356 73,95.0032213 73,95.0032213 Z" id="Path-3" fill="#D0001B" sketch:type="MSShapeGroup"></path>
+                        <path d="M92,80.7460222 C92,80.7460222 76.0332957,41.7945461 64.910009,28.8537032 C53.7867224,15.9128602 20.0097072,73.9184552 31.2651087,103.84518 C42.5205103,133.771905 92,80.7460222 92,80.7460222 L92,80.7460222 Z" id="Path-2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                        <path d="M78,85.872271 C78,85.872271 67.1020907,59.1497468 59.5100062,50.2717266 C51.9179216,41.3937064 28.8637684,81.1882425 36.5460266,101.719368 C44.2282848,122.250493 78,85.872271 78,85.872271 L78,85.872271 Z" id="Path-4" fill="#201C55" sketch:type="MSShapeGroup"></path>
+                        <ellipse id="Oval-4" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="79.5" cy="130.5" rx="74.5" ry="71.5"></ellipse>
+                        <circle id="Oval-5" fill="#000000" sketch:type="MSShapeGroup" cx="88.5" cy="112.5" r="27.5"></circle>
+                        <text id="a" sketch:type="MSTextLayer" font-family="Open Sans" font-size="40.8064516" font-weight="260" fill="#FFFFFF">
+                            <tspan x="77" y="124">a</tspan>
+                        </text>
+                        <text id="a-3" sketch:type="MSTextLayer" font-family="Open Sans" font-size="31.5918367" font-weight="260" fill="#000000">
+                            <tspan x="23" y="114">a</tspan>
+                        </text>
+                        <text id="T" sketch:type="MSTextLayer" font-family="Open Sans" font-size="42.8307692" font-weight="260" fill="#000000">
+                            <tspan x="17" y="161">T</tspan>
+                        </text>
+                    </g>
+                </g>
             </g>
             <text id="woff-fonts" sketch:type="MSTextLayer" transform="translate(222.500000, 102.500000) rotate(-270.000000) translate(-222.500000, -102.500000) " font-family="Open Sans" font-size="36" font-weight="260" fill="#000000">
                 <tspan x="141" y="116">woff-fonts</tspan>
